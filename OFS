@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<header>
+
+
+<style>
+h1 {
+    color:blue;
+    font-family:verdana;
+    font-size:300%;
+}
+p  {
+    color:red;
+    font-family:courier;
+    font-size:160%;
+}
+</style>
+
+</header>
+
+<body>
+
+<h1> Oklahoma Furniture Store </h1>
+
+
+<p>
+
+	Phone:
+	Address:
+	Hours:
+
+
+</p>
+
+
+
+
+
+
+
+</body>
+
+</html>
